@@ -1,0 +1,5 @@
+.env
+paytracker.db
+__pycache__/
+venv/
+.venv/
